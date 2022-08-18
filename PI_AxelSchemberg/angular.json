@@ -24,7 +24,7 @@
             ],
             "styles": [
               "src/styles.css",
-              "SchembergAxel_PI/PI_AxelSchemberg/node_modules/bootstrap/dist/css/bootstrap.css"
+              "SchembergAxel_PI/PI_AxelSchemberg/node_module/bootstrap/dist/css/bootstrap.css"
             ],
             "scripts": [
               "SchembergAxel_PI/PI_AxelSchemberg/node_modules/bootstrap/dist/js/bootstrap.js"
